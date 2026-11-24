@@ -1,4 +1,4 @@
-# Sparklink
+﻿# Sparklink
 
 ## Players
 
@@ -15,4 +15,6 @@
 
 | Session | Title | Summary | Session file |
 | --- | --- | --- | --- |
-| Session number | Session title | Short summary | [Session notes](sessions/session-number.md) |
+| 1 | Prisoners of the Underdark | The group learns about their drow captors, the other prisoners, and the dangers of the prison. Ouus secretly acquires drow poison, and Vaeril overhears a conversation about political struggles. | [Session notes](notes/session-1.md) |
+| 2 | Northbound | The group chooses the northern route, argues over the anti-magic field item, finds a map marked with an X, and Artemas is ambushed by a ghost. | [Session notes](notes/session-2.md) |
+| 3 | The Gnoll Chase | The group helps Bob the bard escape wild gnolls and agrees to seek the Garden of Plenty with him. Artemas is weakened by a ghost-like creature, and Ouus offers to carry his shield and crowbar. | [Session notes](notes/session-3.md) |
