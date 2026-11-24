@@ -20,3 +20,11 @@ Ouus went on the offensive after Vaeril pointed out possible hostile locations. 
 ## Session 5: Entering the Garden of Plenty
 
 Ouus sparred with Suortin and felt at home in the ruined temple. Vaeril later called out to Ouus that some of his friends had arrived.
+
+## Session 6: Echoes of the Six Sisters
+
+Ouus told the princess about the zombies, but she did not care because she was too high.
+
+## Session 7: The Six Awakened
+
+Ouus noticed the old Elvish names beneath the statues after rolling 15 on a Perception check. Ouus took the sword from the grave; it was inscribed, “I isilrîn le govannen” (“Those who freeze, greet you”).

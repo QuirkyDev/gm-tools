@@ -16,3 +16,11 @@ Vaeril explored part of the cave, heard sounds that might have come from hostile
 ## Session 5: Entering the Garden of Plenty
 
 Vaeril practiced "Mask of the Wild" and can now use it around mushrooms. Vaeril copied down the temple's elvish-like writing but could not read it. Vaeril later investigated a sound alone and saw strange figures, some apparently missing parts, approaching the temple, then called to Ouus that some of his friends had arrived.
+
+## Session 6: Echoes of the Six Sisters
+
+Vaeril wanted to keep eating, so the group waited until the next day before proceeding and closed up for the night to recover resources.
+
+## Session 7: The Six Awakened
+
+Vaeril shouted at the people of the Garden of Plenty, blaming them for Artemas's death. Vaeril was projecting.
