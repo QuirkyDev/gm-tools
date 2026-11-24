@@ -24,3 +24,11 @@ Vaeril wanted to keep eating, so the group waited until the next day before proc
 ## Session 7: The Six Awakened
 
 Vaeril shouted at the people of the Garden of Plenty, blaming them for Artemas's death. Vaeril was projecting.
+
+## Session 8: Leaving the Garden
+
+After failing a Wisdom saving throw, Vaeril began to feel as though he never wanted to leave the Garden of Plenty. Ouus eventually snapped Vaeril out of it.
+
+## Session 9: A Night at the Drowsy Puffball
+
+Vaeril borrowed seven Drossle from Ulric to pay for the night at the Drowsy Puffball. Vaeril was advised to visit the big cities to look for the missing person.

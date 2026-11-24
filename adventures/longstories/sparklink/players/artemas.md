@@ -16,3 +16,7 @@ Artemas kept watch over the place where the zombies had come from.
 ## Session 7: The Six Awakened
 
 Artemas was killed by the undead leader, who emerged from the coffin and killed him with a single hit. Amanita later cast *Gentle Repose* on him.
+
+## Session 8: Leaving the Garden
+
+The group learned that a druid at Timberbark Grove may be able to revive Artemas.
