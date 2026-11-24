@@ -4,12 +4,12 @@
 
 | Character | Player | Character file |
 | --- | --- | --- |
-| Amanita | Robby | [Character sheet](characters/amanita.md) |
-| Artemas (or Skygge) | Ruben | [Character sheet](characters/artemas.md) |
-| Ouus | Fabien | [Character sheet](characters/ouus.md) |
-| Ulric | Samuel | [Character sheet](characters/ulric.md) |
-| Vaeril | Nils | [Character sheet](characters/vaeril.md) |
-| Bradluc | Ruben | [Character sheet](characters/bradluc.md) |
+| Amanita | Robby | [Character sheet](players/amanita.md) |
+| Artemas (or Skygge) | Ruben | [Character sheet](players/artemas.md) |
+| Ouus | Fabien | [Character sheet](players/ouus.md) |
+| Ulric | Samuel | [Character sheet](players/ulric.md) |
+| Vaeril | Nils | [Character sheet](players/vaeril.md) |
+| Bradluc | Ruben | [Character sheet](players/bradluc.md) |
 
 ## Session notes
 
