@@ -2,14 +2,14 @@
 
 ## Players
 
-| Character | Player | Character file |
-| --- | --- | --- |
-| Amanita | Robby | [Character sheet](players/amanita.md) |
-| Artemas (or Skygge) | Ruben | [Character sheet](players/artemas.md) |
-| Ouus | Fabien | [Character sheet](players/ouus.md) |
-| Ulric | Samuel | [Character sheet](players/ulric.md) |
-| Vaeril | Nils | [Character sheet](players/vaeril.md) |
-| Bradluc | Ruben | [Character sheet](players/bradluc.md) |
+| Character | Player | Character file | Character sheet | Status |
+| --- | --- | --- | --- | --- |
+| Amanita | Robby | [Character file](players/amanita.md) | [Character sheet](https://www.dndbeyond.com/characters/159833399) | Active |
+| Artemas (or Skygge) | Ruben | [Character file](players/artemas.md) | [Character sheet](https://www.dndbeyond.com/characters/127694635) | Active |
+| Ouus | Fabien | [Character file](players/ouus.md) | [Character sheet](https://www.dndbeyond.com/characters/159835633) | Active |
+| Ulric | Samuel | [Character file](players/ulric.md) | [Character file](https://www.dndbeyond.com/characters/128265340) | Active |
+| Vaeril | Nils | [Character file](players/vaeril.md) | Unavailable | Inactive |
+| Bradluc | Ruben | [Character file](players/bradluc.md) | Unavailable | Inactive |
 
 ## Session notes
 

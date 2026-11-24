@@ -14,12 +14,13 @@ Collect or infer these from the user's message and current conversation:
 - Adventure type: `long`, `short`, or `oneshot` (maps to `adventures/longstories`, `adventures/shortstories`, or `adventures/oneshots`).
 - Adventure folder/name within that type.
 - Session number.
-- Session title.
 - Raw session notes.
 
 If a required value is missing or the adventure folder cannot be identified unambiguously, ask only for the missing detail. Resolve adventure names case-insensitively when there is one clear match.
 
 ## Workflow
+
+Use the session title the user supplied. If they have not provided one, offer exactly 15 distinct titles based on the session notes in a numbered list. Ask the user to choose by number or title and wait for their reply before writing any files. Use their chosen title throughout.
 
 1. Locate the adventure folder at `adventures/<mapped-type>/<adventure>/`. Read its `README.md` and inspect its `players/` directory and existing notes. Create `notes/` if it does not exist.
 2. Create `notes/session-<session-number>.md`, preserving the supplied session number in the filename (for example, session `3` becomes `session-3.md`). Start the file with the session title as the highest-level Markdown heading (`# <title>`), followed by a cleaned-up version of the supplied notes.
