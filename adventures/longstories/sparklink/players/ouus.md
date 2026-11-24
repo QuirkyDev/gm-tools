@@ -60,3 +60,27 @@ Ouus said he had wanted to become the village guard and feels he succeeded and a
 ## Session 19: The Malformed Giant
 
 Ouus intimidated the Stone Guard into treating the group with more respect. Ouus tried to take a tooth from Rihuus as a trophy, then told Dahrun he wanted a doctor to examine it. Ouus asked Dahrun about Rihuus and whether the group could help. Ouus has two pending actions: one involving Skygge and one involving his beer.
+
+## Session 20: The Stone Guard's Assignment
+
+Ouus impulsively started to mention the Stone Guard during the conversation with Ylsa. Amanita cut him off, which caught Ylsa's interest.
+
+## Session 21: Following Droakie
+
+Ouus helped Ulric steal Droakie's package and kept walking when the shopkeeper spotted them. They opened it to find two kinds of rare mushrooms and later extorted 200 gp from the shopkeeper in exchange for returning them.
+
+## Session 22: Balik's Last Request
+
+Ouus accidentally stabbed and partly burned the ritual book during the fight at the altar. He gave it to Amanita to study and later asked Balik about valuables nearby. While small in the mushroom garden, Ouus felt no tingling (30 minutes).
+
+## Session 23: The Voice in the Fissure
+
+With Divine Sense, Ouus detected eight distant undead presences, a faint trace of undeath from Amanita, and ancient dark magic in the purple light. He approached unharmed, heard the city sounds more clearly, and noticed that the light pulsed in time with them.
+
+## Session 24: New Hires at Gundren’s Lab
+
+When Lorthia asked if the party were the new guys, Ouus told her, “Yeah, we're very new here,” and later asked what they were supposed to do. When she tried to flee, Ouus struck her with a shield to try to knock her out. At the top of the ladder, Ouus lifted the wooden cover and discovered that the scraping sound he'd heard was waves on the Dark Lake.
+
+## Session 25: A Concept of a Plan
+
+During the conversation with Gorglak, Ouus told a story about his uncle, who had served in the military and turned against his own side.

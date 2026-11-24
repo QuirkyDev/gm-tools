@@ -32,3 +32,15 @@ Ulric was bumped by an unseen figure and briefly saw it shimmer while carrying a
 ## Session 18: The Shattered Spire's Offer
 
 Ulric asked what everyone wanted to become as a child. Ulric wanted enough money to live comfortably and help other orphans.
+
+## Session 21: Following Droakie
+
+Ulric flashed his Stone Guard insignia after the Duergar shopkeeper spotted him and Ouus stealing Droakie's package. He took note of her hair and distinctive robe in case he needed to identify her later. When they returned, Ulric threatened to arrest her unless she cooperated. She identified the mushrooms as Bigwigs and Pygmywort and confirmed Droakie was her supplier. Ulric and Ouus extorted 200 gp from her in exchange for returning the mushrooms.
+
+## Session 22: Balik's Last Request
+
+While small in the mushroom garden, Ulric felt no tingling (30 minutes).
+
+## Session 23: The Voice in the Fissure
+
+Ulric joined Ouus near the purple light and suggested listening for one voice among the sounds of Gracklstugh. Amanita followed his suggestion and saw the speaker in a vision.

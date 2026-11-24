@@ -44,3 +44,19 @@ Skygge said individual dreams were a strange concept. Skygge lives for the clan 
 ## Session 19: The Malformed Giant
 
 Skygge looked over the games at the Gable Shack without trying to be addressed.
+
+## Session 20: The Stone Guard's Assignment
+
+When Amanita asked whether he knew how to get home from the surface or was looking for another route, Skygge said he didn't know how to get home.
+
+## Session 22: Balik's Last Request
+
+While small in the mushroom garden, Skygge felt no tingling (30 minutes).
+
+## Session 24: New Hires at Gundren’s Lab
+
+Skygge cast *Hold Person* when Lorthia tried to flee after seeing the dead Duergar. The party tied her up for questioning.
+
+## Session 25: A Concept of a Plan
+
+Skygge got Gorglak to step away from his post for a private conversation. When Gorglak tried to call the other guards, Skygge cast *Hold Person*. The spell failed.

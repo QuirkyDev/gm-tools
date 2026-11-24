@@ -44,3 +44,29 @@ Amanita was broke at first, then bought 10 gp hide armor from the Iron Stitch an
 ## Session 19: The Malformed Giant
 
 Amanita went to the bar at the Gable Shack, asked for Ylsa, explained that the group needed help traveling, and ordered drinks.
+
+## Session 20: The Stone Guard's Assignment
+
+Amanita offered to protect Ylsa's caravan in exchange for passage. Amanita realized Ylsa was probing for information she could use in her business and cut Ouus off when he started to mention the Stone Guard. Amanita asked Skygge whether he knew how to get home from the surface or was seeking another route, and asked Commander Blackskull what crimes Droakie had committed.
+
+## Session 21: Following Droakie
+
+Amanita summoned a lizard to help tail Droakie from the Blade Bazaar to a sewer entrance near the docks. While Amanita investigated the area, the lizard followed Droakie into tunnels full of unfamiliar purple- and blue-capped mushrooms. Amanita shared the discovery, got a free Pygmywort from the shopkeeper, and planned to gather mushrooms for the group.
+
+## Session 22: Balik's Last Request
+
+The table revised the chase from last session. Amanita hadn't seen which way Droakie went. Ouus entrusted Amanita with the damaged ritual book from the altar. **When the party reaches level 6, study the book.**
+
+Amanita heard several creatures shuffling and greeted the myconids her lizard found. One recognized her as a fellow myconid and offered her the Lady's dream. Amanita declined, saying she wanted to choose her own path. Her lizard later spotted swarms in the mushroom garden. While small, Amanita felt a tingling sensation (50 minutes).
+
+## Session 23: The Voice in the Fissure
+
+Amanita heard Gracklstugh's voices and smiths through her lizard before it vanished near the purple light. Ouus sensed a faint trace of undeath from her. Back at her usual size, she picked out a low voice and wondered where the speaker was. In her vision, he resented heating furnaces for gold and believed he deserved to rule Gracklstugh. She saw his red scales reflected in the coins.
+
+## Session 24: New Hires at Gundren’s Lab
+
+Amanita held Gundren's accounts up to the light to read the crossed-out names. In a hidden desk compartment, she found Gorglak's letter to Gundren. Gorglak intended to deal with Werz Saltbaron himself and demanded an elf blade with swirls carved into the steel.
+
+## Session 25: A Concept of a Plan
+
+Amanita asked Gorglak about his elven blade. He grew defensive and said he'd bought it at Anvil's Edge. When he tried to call the other guards and Skygge's spell failed, Amanita cast *Faerie Fire*.
