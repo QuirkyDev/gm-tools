@@ -32,3 +32,15 @@ Artemas awakened after Caelith's resurrection ritual but seemed to have amnesia.
 ## Session 16: Sailing into Gracklstugh
 
 Skygge said he is loyal to the Raven Queen. In his society, clans care for one another instead of having parental relationships. Skygge wants to find a portal home before meeting the Raven Queen.
+
+## Session 17: The Black Gem Cargo
+
+Skygge was unusually quiet during the conversation about what the party misses about the world above.
+
+## Session 18: The Shattered Spire's Offer
+
+Skygge said individual dreams were a strange concept. Skygge lives for the clan and its goals, and wants to follow the Raven Queen, find her artifacts, and make her stronger.
+
+## Session 19: The Malformed Giant
+
+Skygge looked over the games at the Gable Shack without trying to be addressed.

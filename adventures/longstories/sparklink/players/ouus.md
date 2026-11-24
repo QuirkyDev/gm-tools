@@ -48,3 +48,15 @@ Ouus was unsettled by Caelith's explanation that whatever had controlled Skygge'
 ## Session 16: Sailing into Gracklstugh
 
 Ouus threw a bag of burning harpy feathers at the Duergar ship, starting combat, and Amanita accidentally pushed Ouus into the water with *Thunderwave*. Ouus said he does not really know his father, though his mother told him about him. Ouus asked Amanita about their memories and suggested the girl from the lake's reflection might have been the previous inhabitant's mother. Ouus wants to meet the Raven Queen and was told to bring a gift, such as one of her weapons.
+
+## Session 17: The Black Gem Cargo
+
+Ouus charged after the unseen figure toward the abandoned alley. Ouus misses the sun and his sister, As, and worries about her while away. Ouus thinks As probably expects him to return soon and wonders whether she will still need an older brother. Ouus was the one who usually got her out of trouble.
+
+## Session 18: The Shattered Spire's Offer
+
+Ouus said he had wanted to become the village guard and feels he succeeded and accomplished his dream.
+
+## Session 19: The Malformed Giant
+
+Ouus intimidated the Stone Guard into treating the group with more respect. Ouus tried to take a tooth from Rihuus as a trophy, then told Dahrun he wanted a doctor to examine it. Ouus asked Dahrun about Rihuus and whether the group could help. Ouus has two pending actions: one involving Skygge and one involving his beer.

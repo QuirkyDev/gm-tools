@@ -24,3 +24,11 @@ Ulric was not charmed by the harpies' singing and tried unsuccessfully to counte
 ## Session 16: Sailing into Gracklstugh
 
 Ulric said he never knew a father and does not know whether his parents died. Ulric was raised in an orphanage, moved around a lot, and found his patron more recently.
+
+## Session 17: The Black Gem Cargo
+
+Ulric was bumped by an unseen figure and briefly saw it shimmer while carrying a purple psionic weapon. Ulric later saw it approach a person in an alley, helped save that person from two psionic Duergar, and took two black gems from the boxes. Ulric misses the light, food, freedom from worry, and being among fellow halflings.
+
+## Session 18: The Shattered Spire's Offer
+
+Ulric asked what everyone wanted to become as a child. Ulric wanted enough money to live comfortably and help other orphans.
