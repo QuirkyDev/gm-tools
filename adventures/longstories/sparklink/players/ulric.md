@@ -16,3 +16,11 @@ Ulric lent Vaeril seven Drossle to pay for the night at the Drowsy Puffball.
 ## Session 10: Meet Bradluc and Voc
 
 Ulric confirmed that there are no hyena-like creatures with a third eye above ground. In the oasis pool, Ulric saw guards approaching and turned away. Ulric would rather have left the chamber, but the group spent the night there.
+
+## Session 15: The Return of Skygge
+
+Ulric was not charmed by the harpies' singing and tried unsuccessfully to counter the charm.
+
+## Session 16: Sailing into Gracklstugh
+
+Ulric said he never knew a father and does not know whether his parents died. Ulric was raised in an orphanage, moved around a lot, and found his patron more recently.

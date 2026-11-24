@@ -20,3 +20,15 @@ Artemas was killed by the undead leader, who emerged from the coffin and killed 
 ## Session 8: Leaving the Garden
 
 The group learned that a druid at Timberbark Grove may be able to revive Artemas.
+
+## Session 14: The Druid's Cure
+
+The group left Artemas at the hut with Caelith, the druid, while they went to gather Spellsip Suckers for her antidote.
+
+## Session 15: The Return of Skygge
+
+Artemas awakened after Caelith's resurrection ritual but seemed to have amnesia. The last thing he remembered was seeking treasure for the Raven Queen: a knife. He said his name was Skygge, and the group wondered whether someone who had previously inhabited Artemas's body had returned. Caelith said that whatever had controlled Skygge's body had been cleansed. Skygge agreed to join the search for a way out of the Underdark.
+
+## Session 16: Sailing into Gracklstugh
+
+Skygge said he is loyal to the Raven Queen. In his society, clans care for one another instead of having parental relationships. Skygge wants to find a portal home before meeting the Raven Queen.

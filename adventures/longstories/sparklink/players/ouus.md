@@ -36,3 +36,15 @@ Ouus finally snapped Vaeril out of the feeling that he never wanted to leave the
 ## Session 10: Meet Bradluc and Voc
 
 Ouus attacked the three gnolls at the rubble pile, beginning combat. At the gnoll shrine, Ouus sensed that evil rituals had been cast there. In the oasis pool, Ouus briefly saw Artemas before the vision changed into something powerful and unfamiliar; Ouus turned away.
+
+## Session 14: The Druid's Cure
+
+Ouus removed his chainmail and borrowed leather armor from Celyn; it fit him well. Ouus helped use himself as bait to catch the Spellsip Suckers and became exhausted.
+
+## Session 15: The Return of Skygge
+
+Ouus was unsettled by Caelith's explanation that whatever had controlled Skygge's body had been cleansed. Ouus was charmed by the harpies' singing.
+
+## Session 16: Sailing into Gracklstugh
+
+Ouus threw a bag of burning harpy feathers at the Duergar ship, starting combat, and Amanita accidentally pushed Ouus into the water with *Thunderwave*. Ouus said he does not really know his father, though his mother told him about him. Ouus asked Amanita about their memories and suggested the girl from the lake's reflection might have been the previous inhabitant's mother. Ouus wants to meet the Raven Queen and was told to bring a gift, such as one of her weapons.

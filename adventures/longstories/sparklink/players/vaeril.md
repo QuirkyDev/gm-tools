@@ -32,3 +32,11 @@ After failing a Wisdom saving throw, Vaeril began to feel as though he never wan
 ## Session 9: A Night at the Drowsy Puffball
 
 Vaeril borrowed seven Drossle from Ulric to pay for the night at the Drowsy Puffball. Vaeril was advised to visit the big cities to look for the missing person.
+
+## Session 11: The Shaman's Invitation
+
+Shoor Vandree ambushed the group during their long rest, and Vaeril was nearly kidnapped.
+
+## Session 12: The city with two fishy shamans
+
+Vaeril saw movement beneath the Dark Lake at least 10 metres from shore and rolled 13 on a Perception check.
